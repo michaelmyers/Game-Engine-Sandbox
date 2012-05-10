@@ -1,0 +1,14 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Principal: Michael Myers
+  Site: http://atomizersoft.com
+  Twitter: myers_m
+  Location: Arlington, Virginia
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Atomizer Software
